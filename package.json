@@ -1,0 +1,19 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "This is a blog sysytem use the react development it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bangwu/react-blog.git"
+  },
+  "author": "Bang Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bangwu/react-blog/issues"
+  },
+  "homepage": "https://github.com/bangwu/react-blog"
+}
